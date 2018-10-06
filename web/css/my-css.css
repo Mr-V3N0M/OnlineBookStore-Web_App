@@ -1,0 +1,14 @@
+.asteriskField {
+    color: red;
+}
+
+.errorLogin {
+    color: #cb444a;
+    font-size: 13px;
+    text-align: center;
+}
+
+tbody tr.selected {
+    color: white !important;
+    background-color: #2f7df6 !important;
+}

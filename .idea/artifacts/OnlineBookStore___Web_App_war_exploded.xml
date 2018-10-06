@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="OnlineBookStore - Web App:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/OnlineBookStore___Web_App_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="OnlineBookStore - Web App" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="org.postgresql:postgresql:42.2.5" />
+          <element id="library" level="project" name="org.apache.taglibs:taglibs-standard-spec:1.2.5" />
+          <element id="library" level="project" name="org.apache.taglibs:taglibs-standard-impl:1.2.5" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="OnlineBookStore - Web App/web/Web" />
+    </root>
+  </artifact>
+</component>
